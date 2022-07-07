@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 85557968511648727}
   - component: {fileID: 1855190371007182023}
   m_Layer: 0
-  m_Name: TrackObject
+  m_Name: ShortTrackObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
